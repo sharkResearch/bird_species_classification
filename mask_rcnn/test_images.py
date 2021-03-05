@@ -1,3 +1,5 @@
+'''Hello'''
+
 import sys
 import random
 import math
